@@ -18,6 +18,9 @@ const TweeningBasicsPage = () => {
         <div>
             <Link href={"/tweening-basics/tween-control"}>tween-control</Link>
         </div>
+         <div>
+            <Link href={"/tweening-basics/tween-glitch"}>tween-glitch</Link>
+        </div>
     </div>
 }
 export default TweeningBasicsPage
